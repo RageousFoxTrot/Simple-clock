@@ -28,7 +28,7 @@ const Clock = new Time();
 console.log(0, Clock);
 // ----------------------------------
 
-Clock.addTime(22, 600, 3800);
+Clock.addTime(22, 600, 3961);
 
 console.log(1, Clock);
 // ----------------------------------
